@@ -10,7 +10,7 @@ Created: 2019-03-08
 
 ## 1. The Objectives of a Token Economics Design
 
-Public permission-less blockchains are open and distributed systems with diverse groups of participants. A well-designed crypto-economics model is to provide incentives so that participants' pursuit of own economic interests leads to desired emergent behaviors in alignment with the protocol, to contribute to the blockchain network's success.
+Public permissionless blockchains are open and distributed systems with diverse groups of participants. A well-designed crypto-economics model is to provide incentives so that participants' pursuit of own economic interests leads to desired emergent behaviors in alignment with the protocol, to contribute to the blockchain network's success.
 
 More specifically, the design of a crypto-economic system must provide answers to the following questions:
 
@@ -74,7 +74,7 @@ Decentralized multi-assets smart contract platforms have to be Store of Assets t
 
 ## 5. Decentralization and the Need for Bounded State
 
-Like other long term store of value systems, a Store of Assets platform has to be neutral and free of risks of censorship and confiscation. These are the properties that made gold the world's favorite the store of value for thousands of years. For open, permission-less blockchain networks, censorship resistance comes down to having the broadest consensus scope with a low barrier for consensus and full node participation. Compared to payment networks, running a full node for a smart contract system is more resource intensive. Therefore a Store of Assets platform must take measures to protect the operating cost of full nodes to keep the network sufficiently decentralized.
+Like other long term store of value systems, a Store of Assets platform has to be neutral and free of risks of censorship and confiscation. These are the properties that made gold the world's favorite the store of value for thousands of years. For open, 、 blockchain networks, censorship resistance comes down to having the broadest consensus scope with a low barrier for consensus and full node participation. Compared to payment networks, running a full node for a smart contract system is more resource intensive. Therefore a Store of Assets platform must take measures to protect the operating cost of full nodes to keep the network sufficiently decentralized.
 
 Both Bitcoin and Ethereum throttle transaction throughput to ensure participation is not limited to only "super computers" - Bitcoin throttles on bandwidth and Ethereum throttles on computation. However, they haven't taken effective measures to contain the ever growing global state necessary for consensus participation and independent transaction validation.  This is especially a centralization force for high throughput smart contract platforms, where the global state grows even faster.
 
